@@ -1,0 +1,21 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "satish",
+      "number": "1234567890",
+      "email":"a@gmail.com",
+      "password":"satish"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
